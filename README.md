@@ -1,4 +1,10 @@
-### Hi there 👋
+![Portada de Facebook Corporativa Descuentos Dinámica Juvenil Gradiente Morado y Azul  ](https://user-images.githubusercontent.com/21184228/177630620-100454c0-34e5-456b-9f26-8e383fbb6df5.png)
+
+### Hi there 👋 I'm Diego and I’m currently working at Telefonica Movistar. I’m currently learning with Python, PHP, bash, shell, HTML, JS and CSS
+
+### I hope my work can help you 
+
+
 
 <!--
 **diegomateus12/diegomateus12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
