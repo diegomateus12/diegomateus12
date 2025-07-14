@@ -1,6 +1,8 @@
-![Portada de Facebook Corporativa Descuentos Dinámica Juvenil Gradiente Morado y Azul  ](https://user-images.githubusercontent.com/21184228/177630620-100454c0-34e5-456b-9f26-8e383fbb6df5.png)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/21184228/177630620-100454c0-34e5-456b-9f26-8e383fbb6df5.png" alt="Portada" style="width: 60%;" />
+</div>
 
-### Hi there 👋 I'm Diego and I’m currently working at Telefonica Movistar. I’m currently learning with Python, PHP, bash, shell, HTML, JS and CSS
+### Hi there 👋 I'm Diego and I’m currently working at Oracle. I’m currently working with AWS, Kubernetes, React, Typescrippt, Python, PHP, bash, shell, HTML, JS and CSS
 
 ### I hope my work can help you 
 
