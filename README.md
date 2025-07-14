@@ -7,11 +7,7 @@
 ### I hope my work can help you 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=diegomateus12&theme=dark)](#)
- <!-- <img src="https://raw.githubusercontent.com/INGCapaDev/INGCapaDev/output/snake.svg" alt="Snake animation" />
-  
-  #### 🏆 GitHub Trophies
-  [![Github Trophies](https://github-profile-trophy.vercel.app/?username=INGCapaDev&theme=monokai&no-frame=true&no-bg=true&margin-w=4)](#)
-  -->
+
 
 ## Technologies:
 
