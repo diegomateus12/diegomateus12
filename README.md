@@ -6,6 +6,8 @@
 
 ### I hope my work can help you 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=diegomateus12&theme=dark)](https://git.io/streak-stats)
+
 ## Technologies:
 
 <div align="left">
